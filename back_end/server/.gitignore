@@ -31,9 +31,6 @@ build/
 ### VS Code ###
 .vscode/
 
-# Ignore application.properties
-application.properties
-
 # Ignore static images
 ./server/src/main/resources/static/uploads/
 
